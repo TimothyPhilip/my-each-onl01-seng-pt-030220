@@ -17,6 +17,6 @@ end
 
 
 
-my_each(["1, 2, 3, 4"]) do |i|
+my_each(collection) do |i|
   puts i
 end
